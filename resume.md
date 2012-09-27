@@ -8,48 +8,51 @@ Austin, TX 78723
 
 ## Education
 
-__The University of Texas at Austin__, Master of Library and Information
-Science, August 1995.  
-Concentration in Information Science. Coursework
-in systems analysis, database theory and design.
+__The University of Texas at Austin__, Master of Library and Information Science, August 1995.  
 
 __Harvard University__, A.B. English and American Literature, June 1986.  
-Coursework in computer programming.
 
 ## Professional Experience
 
 ### The University of Texas at Austin (March 1995 - present)
 
-#### Senior Systems Analyst, Liberal Arts Instructional Technology Services May 2004 - present
+#### Senior Software Developer/Analyst, Liberal Arts Instructional Technology Services May 2004 - present
 
-Tech Lead/Project Manager for Digital Archive Services project:
 
-- Designed and implemented *DASe* web application, an online digital
-collection tool used by instructors across the UT Campus for organizing,
-cataloging, presenting and sharing images, sound files, video,
-documents, and bibliographic references.  
-Technologies: PHP, PostgreSQL, Javascript/AJAX, Perl  
-(<http://www.laits.utexas.edu/dasedemo>)
+Chief Architect/Tech Lead/Project Manager for Digital Archive Services project:
 
-- Worked with Faculty members, researchers, and librarians to develop
-new archives within *DASe*, leveraging the flexible *DASe* data model
-to handle diverse metadata schemes and exposing search, read, and update
-functionality both within web application and by way of web service
-interfaces.  Created new DASe archives based on data originating in existing physical slide collections, FileMaker databases, OAI-PMH repositories, public domain websites.
+Designed and implemented DASe web application, a digital repository
+and web services framework used across the UT Campus for organiz- ing,
+cataloging, presenting and sharing documents, images, sound ﬁles,
+video, and bibliographic references. Technologies: PHP, PostgreSQL,
+MySQL, Javascript/AJAX, Perl, Python, Atom/AtomPub, Solr
 
-- currently rewriting *DASe* tool in preparation for Open Source
-release (<http://code.google.com/p/dase/>).  
-Technologies: PHP5, MySQL, Javascript/AJAX, Perl, Ant
+Supervised the work of junior programmers on DASe-related program-
+ming tasks, including one FTE staﬀ member and numerous student pro-
+grammers. Introduced REST/Resource-Oriented Architecture in projects,
+  leveraging Atom/AtomPub as well as JSON-based RESTful Ajax.
+
+  Architected and managed cross-unit collaborative projects including dis-
+  tributed ﬁle storage for visual resources and REST-services based Black-
+  board/DASe integration.
+
+Application Programmer, Administrative Applications
+
+Designed and wrote administrative applications for the College of Lib-
+     eral Arts, including grant proposal submission/management, data collec-
+     tion application for department-wide surveys, voting tool for running de-
+     partmental committee election, and various quiz/assessment tools. Work
+     included requirements gathering, drawing up speciﬁcations, data mod-
+     eling (ER-diagram/database schema), and programming. Technologies:
+     PHP (custom MVC framework), Python (Django), MySQL, PostgreSQL,
+     Javascript (jQuery/jQuery UI).
 
 #### Information Analyst/Programmer, The General Libraries November 2001 - May 2004.
 
 - As part of the General Libraries Metadata Task Force, drew up specifications for and wrote Metadata Registry (digital asset repository) web application for the General Libraries.   
 Technologies: Java/Tomcat, Struts Framework, Apache OJB ORM, MySQL
 
-- Designed and wrote the UT Library Online's "How Do I...?" pages web application.  (<http://www.lib.utexas.edu/help/howdoi/>)  
-Technologies: PHP, MySQL, LDAP 
-
-- Designed and wrote service desk scheduler web application. Still in use across campus and at other institutions.   
+- Designed and wrote PHP/MySQL applications for library, including knowledge bank and service desk scheduler.   
 Technologies: PHP, MySQL, LDAP, SMTP
 
 - Served as a member of the Undergraduate Library's reference department
@@ -69,11 +72,11 @@ related to access and use of new electronic resources.
 #### Reference Assistant, Hilles Library September 1988 - July 1994.
 
 - Worked as a member of the reference department at Hilles Undergraduate Library.  
-Duties included working with OCLC records to reclassify large reference collection, and design and management of barcoding project for undergraduate libraries.
+Duties included the design and management of barcoding project for undergraduate libraries.
 
 ### Technology Skills:
 
-* PHP, Perl, Javascript, Bash, Java, XSLT, CSS, HTML
+* PHP, Python, Perl, Javascript, Bash, Java, XSLT, CSS, HTML
 * PostgreSQL, MySQL
 * XML processing (parsing, validating, object-to-XML serialization)
 * Data Harvesting and Processing

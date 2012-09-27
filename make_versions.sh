@@ -8,6 +8,7 @@ if [[ ! -e $TODAY ]]; then
 fi
 
 pandoc resume.md -o $TODAY/resume.pdf
+pandoc resume.md -o latest.pdf
 
 cp resume.md $TODAY
 
