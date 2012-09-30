@@ -16,15 +16,14 @@ __Harvard University__, A.B. English and American Literature, June 1986.
 
 ### The University of Texas at Austin (March 1995 - present)
 
-#### Senior Software Developer/Analyst, Liberal Arts Instructional Technology Services May 2004 - present
+#### Senior Software Developer, Liberal Arts Instructional Technology Services May 2004 - present. 
 
-
-Chief Architect/Programmer for Tower Online Learning Environment project:
+##### _Chief Architect/Programmer for Tower Online Learning Environment project:_
 
 - Designed and programmed the Tower application, a real-time web application for introductory Psychology at UT Austin. Used by 1500 students in Fall 2012 (one class of 500, one class of 1000) the Tower application provides benchmark quizzing, data collection (demographic surveys and psychological tests), class materials (text, audio, and video) and real-time chat.  The application is used live during class for student both on an off campus (live video streaming is included). Quizzes and surveys delivered to student are dynamically generated based on the student's previous quizzes, demographics, and/or scores on psychological measures.  For the chat component, students are broken up into small chat "rooms" either randomly or based on previously collected data.  All interactions are saved, analysed (natural language processing) and fed back into the system both for live feedback and dynamic content-generation. This data will also be used by researchers studying interaction models and its effects on learning.   
-Technologies: PHP, MySQL, Redis, Javascript/AJAX 
+Technologies: PHP, MySQL, Redis, Javascript/AJAX, Apache Bench, Siege (load/performance testing) 
 
-Chief Architect/Tech Lead/Project Manager for Digital Archive Services project:
+##### _Chief Architect/Tech Lead/Project Manager for Digital Archive Services project:_
 
 - Designed and implemented DASe web application, a digital repository and web services framework used across the UT Campus for organizing, cataloging, presenting and sharing documents, images, sound files, video, and bibliographic references. 
 Technologies: PHP, PostgreSQL, MySQL, Javascript/AJAX, Perl, Python, Atom/AtomPub, Solr
@@ -33,7 +32,7 @@ Technologies: PHP, PostgreSQL, MySQL, Javascript/AJAX, Perl, Python, Atom/AtomPu
 
 - Architected and managed cross-unit collaborative projects including distributed file storage for visual resources and REST-services based Blackboard/DASe integration.
 
-Application Programmer, Administrative Applications
+##### _Application Programmer, Administrative Applications:_
 
 - Designed and wrote administrative applications for the College of Liberal Arts, including grant proposal submission/management, data collection application for department-wide surveys, voting tool for running departmental committee election, and various quiz/assessment tools. Work included requirements gathering, drawing up specifications, data modeling (ER-diagram/database schema), and programming. Technologies:
      PHP (custom MVC framework), Python (Django), MySQL, PostgreSQL,
